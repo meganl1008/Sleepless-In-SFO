@@ -27,6 +27,6 @@ Then, I began to study the Aircraft Noise Complaints data set. This data contain
 
 I began to conduct outside research by reading articles on related topics to SFO. I came across an article where I learned that FAA changed flight paths to and from SFO in 2015. The article specifically mentioned one (28 L/R) passing through the Palo Alto area. This seemed like a credible reason for the influx in Palo Alto complaints and so I began to look at the SFO Runway Usage data to test my hypothesis. 
 
-
+SFO Runway Usage data showed the number of flights using each of the runways. Again, I used Pandas to clean the data and identify trends. From my analysis, 28 L/R has been utilized the most since 2015 since it's the biggest runway at SFO, thus contributing to the increase in flights passing through Palo Alto. 
 
 
