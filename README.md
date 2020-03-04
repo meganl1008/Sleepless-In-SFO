@@ -1,7 +1,9 @@
 ## The Impact of San Francisco International Airport Noise Across the Bay Area
 
 Objective: To inform new and current residents on the impact of SFO noises across the Bay Area
+
 Data Source: SF Data (https://datasf.org/opendata/)
+
 Technologies: Pandas, NumPy, Matplotlib, APIs
 
 Step 1: Collect consistent data
